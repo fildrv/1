@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CCTV5P" tvg-name="CCTV5P" tvg-logo="https://livechina.tv/images/epg/cctv5plus.png" group-title="央视",CCTV5+
+http://121.17.146.188:50003/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://livechina.tv/images/epg/cctv1.png" group-title="央视",CCTV1
 http://z.b.bkpcp.top/m.php?id=cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://livechina.tv/images/epg/cctv2.png" group-title="央视",CCTV2
@@ -11,8 +13,6 @@ http://z.b.bkpcp.top/m.php?id=cctv4
 http://z.b.bkpcp.top/m.php?id=cctv4o
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://livechina.tv/images/epg/cctv5.png" group-title="央视",CCTV5
 http://z.b.bkpcp.top/m.php?id=cctv5
-#EXTINF:-1 tvg-id="CCTV5P" tvg-name="CCTV5P" tvg-logo="https://livechina.tv/images/epg/cctv5plus.png" group-title="央视",CCTV5+
-http://121.17.146.188:50003/hls/21/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://livechina.tv/images/epg/cctv6.png" group-title="央视",CCTV6
 http://z.b.bkpcp.top/m.php?id=cctv6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://livechina.tv/images/epg/cctv7.png" group-title="央视",CCTV7
