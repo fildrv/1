@@ -35,8 +35,6 @@ http://121.17.146.188:50003/hls/14/index.m3u8
 http://121.17.146.188:50003/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://livechina.tv/images/epg/cctv17.png" group-title="央视",CCTV17
 http://121.17.146.188:50003/hls/17/index.m3u8
-#EXTINF:-1 tvg-id="HeBei" tvg-name="HeBei" tvg-logo="https://livechina.tv/images/epg/cctv17.png" group-title="卫视",河北卫视
-http://121.17.146.188:50003/hls/22/index.m3u8
 #EXTINF:-1 group-title="💓专享源🅰️",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="💓专享源🅰️",直播熊猫
