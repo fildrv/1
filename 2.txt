@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
-http://171.118.78.215:9003/hls/1/index.m3u8
+http://ygbh.site/php/bfgd.php?id=488
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视",CCTV2
 http://111.43.126.240:9003/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://livechina.tv/images/epg/cctv3.png" group-title="央视",CCTV3
@@ -10,11 +10,11 @@ http://111.43.126.240:9003/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4_O" tvg-name="CCTV4_O" tvg-logo="https://livechina.tv/images/epg/cctv4.png" group-title="央视",CCTV4(国际版)
 http://171.118.78.215:9003/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://livechina.tv/images/epg/cctv5.png" group-title="央视",CCTV5
-http://125.110.26.127:8044/udp/233.50.201.197:5140
+http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5P" tvg-name="CCTV5P" tvg-logo="https://livechina.tv/images/epg/cctv5plus.png" group-title="央视",CCTV5+
 http://219.144.150.118:10000/rtp/239.111.205.13:5140
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://livechina.tv/images/epg/cctv6.png" group-title="央视",CCTV6
-http://171.118.78.215:9003/hls/6/index.m3u8
+http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://livechina.tv/images/epg/cctv7.png" group-title="央视",CCTV7
 http://171.118.78.215:9003/hls/7/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://livechina.tv/images/epg/cctv8.png" group-title="央视",CCTV8
