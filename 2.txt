@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV1
 http://ygbh.site/php/bfgd.php?id=488
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视",CCTV2
-http://111.43.126.240:9003/hls/14/index.m3u8
+http://114.232.196.53:8889/rtp/239.49.8.130:6000
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://livechina.tv/images/epg/cctv3.png" group-title="央视",CCTV3
 http://111.43.126.240:9003/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://livechina.tv/images/epg/cctv4.png" group-title="央视",CCTV4
