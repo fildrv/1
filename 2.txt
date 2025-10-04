@@ -10,7 +10,7 @@ http://111.43.126.240:9003/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4_O" tvg-name="CCTV4_O" tvg-logo="https://livechina.tv/images/epg/cctv4.png" group-title="央视",CCTV4(国际版)
 http://171.118.78.215:9003/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://livechina.tv/images/epg/cctv5.png" group-title="央视",CCTV5
-http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
+http://cnlive.org/channel/n5d959a6c/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5P" tvg-name="CCTV5P" tvg-logo="https://livechina.tv/images/epg/cctv5plus.png" group-title="央视",CCTV5+
 http://219.144.150.118:10000/rtp/239.111.205.13:5140
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://livechina.tv/images/epg/cctv6.png" group-title="央视",CCTV6
