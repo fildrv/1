@@ -4,7 +4,7 @@ http://ygbh.site/php/bfgd.php?id=488
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视",CCTV2
 http://111.26.109.81:9003/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://livechina.tv/images/epg/cctv3.png" group-title="央视",CCTV3
-http://111.43.126.240:9003/hls/15/index.m3u8
+http://110.177.144.19:9003/hls/3/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://livechina.tv/images/epg/cctv4.png" group-title="央视",CCTV4
 http://111.43.126.240:9003/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4_O" tvg-name="CCTV4_O" tvg-logo="https://livechina.tv/images/epg/cctv4.png" group-title="央视",CCTV4(国际版)
